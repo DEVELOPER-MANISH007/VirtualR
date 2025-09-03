@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Featuresection from "./Components/FeatureSection";
-import Workflow from "./Components/workflow";
+import Workflow from "./Components/Workflow";
 import Price from "./Components/price";
 import  Testimonials from "./Components/testimonials";
 import Footer from "./Components/Footer";
